@@ -4,11 +4,32 @@ const Settings = ({
     selectedTechnique, setSelectedTechnique,
     selectedDuration, setSelectedDuration,
     selectedBackground, setSelectedBackground,
+    isDarkMode, setIsDarkMode,
+    isAudioEnabled, setIsAudioEnabled,
     onStart
 }) => {
     return (
         <div className="settings-container">
             <h1>Breathing Exercises</h1>
+
+            <div className="section toggles-section">
+                <div className="toggles">
+                    <button
+                        className={`toggle-btn ${isDarkMode ? 'active' : ''}`}
+                        onClick={() => setIsDarkMode(!isDarkMode)}
+                        title="Dark Mode"
+                    >
+                        {isDarkMode ? '🌙 Dark' : '☀️ Light'}
+                    </button>
+                    <button
+                        className={`toggle-btn ${isAudioEnabled ? 'active' : ''}`}
+                        onClick={() => setIsAudioEnabled(!isAudioEnabled)}
+                        title="Background Ambience"
+                    >
+                        {isAudioEnabled ? '🔊 Sound On' : '🔇 Sound Off'}
+                    </button>
+                </div>
+            </div>
 
             <div className="section">
                 <h2>1. Choose a Technique</h2>
