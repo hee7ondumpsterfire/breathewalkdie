@@ -466,19 +466,29 @@ button.active {
   background: transparent;
 }
 
-/* Legal Button */
-.legal-btn {
-  width: 100%;
-  background: transparent;
-  color: rgba(255, 255, 255, 0.5);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  font-size: 0.8rem;
-  margin-top: 1rem;
-  padding: 0.6rem;
+
+/* Legal Link Bottom Left */
+.legal-link-bottom-left {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background: rgba(0, 0, 0, 0.3);
+  color: rgba(255, 255, 255, 0.6);
+  border: none;
+  font-size: 0.85rem;
+  padding: 8px 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  z-index: 1000;
+  backdrop-filter: blur(4px);
+  transition: all 0.3s ease;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-weight: 500;
 }
 
-.legal-btn:hover {
-  color: white;
-  border-color: rgba(255, 255, 255, 0.3);
-  background: rgba(255, 255, 255, 0.05);
+.legal-link-bottom-left:hover {
+  color: rgba(255, 255, 255, 1);
+  background: rgba(0, 0, 0, 0.6);
+  transform: translateY(-2px);
 }

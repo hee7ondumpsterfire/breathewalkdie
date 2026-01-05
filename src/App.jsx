@@ -87,7 +87,6 @@ function App() {
             isAudioEnabled={isAudioEnabled}
             setIsAudioEnabled={setIsAudioEnabled}
             onStart={() => setIsSessionActive(true)}
-            onShowLegal={() => setShowLegal(true)}
           />
         ) : (
           <ExerciseSession
@@ -99,6 +98,14 @@ function App() {
       </div>
 
       {showLegal && <LegalModal onClose={() => setShowLegal(false)} />}
+
+      <button
+        className="legal-link-bottom-left"
+        onClick={() => setShowLegal(true)}
+        title="Legal & Privacy"
+      >
+        Legal & Privacy
+      </button>
 
       <a
         href={currentBg.credit}

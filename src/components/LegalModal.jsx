@@ -10,16 +10,15 @@ const LegalModal = ({ onClose }) => {
 
                     <section>
                         <h2>Angaben gemäß § 5 TMG</h2>
-                        <p>[First Name] [Last Name]</p>
-                        <p>[Street Address]</p>
-                        <p>[City, Zip Code]</p>
-                        <p>Germany</p>
+                        <p>Max Wittig</p>
+                        <p>Schoenbuehlring 68</p>
+                        <p>6020 Emmenbruecke</p>
+                        <p>Switzerland</p>
                     </section>
 
                     <section>
                         <h2>Contact</h2>
-                        <p>Email: [Your Email]</p>
-                        <p>Phone: [Your Phone]</p>
+                        <p>Email: max.wittig@antigravity.ch</p>
                     </section>
 
                     <h1>Privacy Policy / Datenschutzerklärung</h1>
