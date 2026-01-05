@@ -37,7 +37,7 @@ const irishCoastBg = 'https://images.unsplash.com/photo-1504829857797-ddff29c279
 import spaceAudio from '../assets/audio/space.ogg';
 import fireplaceAudio from '../assets/audio/fireplace.mp3';
 import coffeeAudio from '../assets/audio/coffeeshop.ogg';
-import windAudio from '../assets/audio/wind.ogg';
+import windAudio from '../assets/audio/wind.mp3';
 import oceanAudio from '../assets/audio/ocean.mp3'; // Validated download or fallback
 import cowbellAudio from '../assets/audio/cowbell.ogg';
 
