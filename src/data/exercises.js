@@ -39,10 +39,9 @@ import fireplaceAudio from '../assets/audio/fireplace.mp3';
 import coffeeAudio from '../assets/audio/coffeeshop.ogg';
 import windAudio from '../assets/audio/wind.mp3';
 import oceanAudio from '../assets/audio/ocean.mp3'; // Validated download or fallback
-import cowbellAudio from '../assets/audio/cowbell.ogg';
 
 export const backgrounds = [
-    { id: 'relaxing', name: 'Relaxing', src: relaxingBg, credit: 'https://unsplash.com/photos/fed622ff2c3b', audioSrc: [windAudio, cowbellAudio] },
+    { id: 'relaxing', name: 'Relaxing', src: relaxingBg, credit: 'https://unsplash.com/photos/fed622ff2c3b', audioSrc: windAudio },
     { id: 'motivating', name: 'Motivating', src: motivatingBg, credit: 'https://unsplash.com/photos/vO9I5nAis0M', audioSrc: spaceAudio },
     { id: 'fireplace', name: 'Fireplace', src: fireplaceBg, credit: 'https://unsplash.com/photos/aAbc_C7PH4Y', audioSrc: fireplaceAudio },
     { id: 'coffeeshop', name: 'Coffee Shop', src: coffeeShopBg, credit: 'https://unsplash.com/photos/b67a49e012bf', audioSrc: coffeeAudio },
