@@ -34,16 +34,16 @@ const coffeeShopBg = 'https://images.unsplash.com/photo-1497935586351-b67a49e012
 const irishCoastBg = 'https://images.unsplash.com/photo-1504829857797-ddff29c27927?q=80&w=3840&auto=format&fit=crop'; // Cliffs
 
 // Audio Assets
-import spaceAudio from '../assets/audio/space.ogg';
+// import spaceAudio from '../assets/audio/space.ogg'; // Removed: Google Actions Library (Not for web use)
 import fireplaceAudio from '../assets/audio/fireplace.mp3';
-import coffeeAudio from '../assets/audio/coffeeshop.ogg';
+// import coffeeAudio from '../assets/audio/coffeeshop.ogg'; // Removed: Google Actions Library
 import windAudio from '../assets/audio/wind.mp3';
-import oceanAudio from '../assets/audio/ocean.mp3'; // Validated download or fallback
+import oceanAudio from '../assets/audio/ocean.mp3';
 
 export const backgrounds = [
     { id: 'relaxing', name: 'Relaxing', src: relaxingBg, credit: 'https://unsplash.com/photos/fed622ff2c3b', audioSrc: windAudio },
-    { id: 'motivating', name: 'Motivating', src: motivatingBg, credit: 'https://unsplash.com/photos/vO9I5nAis0M', audioSrc: spaceAudio },
+    { id: 'motivating', name: 'Motivating', src: motivatingBg, credit: 'https://unsplash.com/photos/vO9I5nAis0M', audioSrc: null }, // Validated: No safe audio
     { id: 'fireplace', name: 'Fireplace', src: fireplaceBg, credit: 'https://unsplash.com/photos/aAbc_C7PH4Y', audioSrc: fireplaceAudio },
-    { id: 'coffeeshop', name: 'Coffee Shop', src: coffeeShopBg, credit: 'https://unsplash.com/photos/b67a49e012bf', audioSrc: coffeeAudio },
+    { id: 'coffeeshop', name: 'Coffee Shop', src: coffeeShopBg, credit: 'https://unsplash.com/photos/b67a49e012bf', audioSrc: null }, // Validated: No safe audio
     { id: 'irishcoast', name: 'Irish Coast', src: irishCoastBg, credit: 'https://unsplash.com/photos/ddff29c27927', audioSrc: oceanAudio },
 ];

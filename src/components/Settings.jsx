@@ -6,7 +6,8 @@ const Settings = ({
     selectedBackground, setSelectedBackground,
     isDarkMode, setIsDarkMode,
     isAudioEnabled, setIsAudioEnabled,
-    onStart
+    onStart,
+    onShowLegal
 }) => {
     return (
         <div className="settings-container">
@@ -79,6 +80,11 @@ const Settings = ({
             </div>
 
             <button className="start-btn" onClick={onStart}>Start Breathing</button>
+            <div className="section">
+                <button className="legal-btn" onClick={onShowLegal}>
+                    Legal & Privacy
+                </button>
+            </div>
         </div>
     );
 };

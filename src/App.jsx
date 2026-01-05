@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Settings from './components/Settings';
 import ExerciseSession from './components/ExerciseSession';
+import LegalModal from './components/LegalModal';
 import { techniques, backgrounds } from './data/exercises';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
   const [isSessionActive, setIsSessionActive] = useState(false);
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [isAudioEnabled, setIsAudioEnabled] = useState(false);
+  const [showLegal, setShowLegal] = useState(false);
 
   const currentBg = backgrounds.find(bg => bg.src === selectedBackground) || backgrounds[0];
 
@@ -85,6 +87,7 @@ function App() {
             isAudioEnabled={isAudioEnabled}
             setIsAudioEnabled={setIsAudioEnabled}
             onStart={() => setIsSessionActive(true)}
+            onShowLegal={() => setShowLegal(true)}
           />
         ) : (
           <ExerciseSession
@@ -94,6 +97,8 @@ function App() {
           />
         )}
       </div>
+
+      {showLegal && <LegalModal onClose={() => setShowLegal(false)} />}
 
       <a
         href={currentBg.credit}
