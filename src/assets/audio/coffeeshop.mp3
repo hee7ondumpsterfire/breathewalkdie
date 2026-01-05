@@ -93,22 +93,22 @@
   <meta name="route-pattern" content="/:user_id/:repository/raw/*name(/*path)" data-turbo-transient>
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="raw" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:e3886c64-476d-3c03-f729-777bf25d096b">
+  <meta name="fetch-nonce" content="v2:1c193fea-5049-c733-20f7-2d7268fc4844">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="C699:3F1943:3895550:2EFFBE8:695C055E" data-turbo-transient="true" /><meta name="html-safe-nonce" content="c6ef05acdc0bfb10c9276f6a06b9b1baf94a3632e99078b07b6068a4470988b6" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkM2OTk6M0YxOTQzOjM4OTU1NTA6MkVGRkJFODo2OTVDMDU1RSIsInZpc2l0b3JfaWQiOiI1NDE0MDc4NTI3NzYyNTk3MjE0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="f2df581c3cdd4d3be7db3ee07d77153e8a93de4d70c4bbfd933dd4f03b217a6d" data-turbo-transient="true" />
+  <meta name="request-id" content="C694:1ECD9A:3549DFC:2C2C1E4:695C055C" data-turbo-transient="true" /><meta name="html-safe-nonce" content="721077d424a79861c5babd785f79e2d931fa19d12d362cf3d70ad1ec7ebcde0b" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkM2OTQ6MUVDRDlBOjM1NDlERkM6MkMyQzFFNDo2OTVDMDU1QyIsInZpc2l0b3JfaWQiOiI0NTcwNTQ4OTIyMjE4MTg2MDc3IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="5cc2e242ef285492c711e598e48c5fb5c42fe8320d572d7c004c7e4bc3e88440" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:28696440" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:1072393812" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="copilot" data-turbo-transient="true" />
   
 
-  <meta name="selected-link" value="/Muges/ambientsounds/raw/master/sounds/wind.ogg" data-turbo-transient>
+  <meta name="selected-link" value="/bradtraversy/ambient-sound-mixer/raw/master/sounds/coffee.mp3" data-turbo-transient>
   <link rel="assets" href="https://github.githubassets.com/">
 
     <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
@@ -136,7 +136,7 @@
 
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/Muges/ambientsounds/raw/master/sounds/wind.ogg" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/bradtraversy/ambient-sound-mixer/raw/master/sounds/coffee.mp3" />
 
       <meta property="og:url" content="https://github.com">
   <meta property="og:site_name" content="GitHub">
@@ -193,7 +193,7 @@
 
 
 
-      <link rel="canonical" href="https://github.com/Muges/ambientsounds/raw/master/sounds/wind.ogg" data-turbo-transient>
+      <link rel="canonical" href="https://github.com/bradtraversy/ambient-sound-mixer/raw/master/sounds/coffee.mp3" data-turbo-transient>
 
 
     <meta name="turbo-body-classes" content="logged-out env-production page-responsive min-height-full d-flex flex-column">
@@ -205,7 +205,7 @@
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 
   <meta name="release" content="34863aad848e00b31ccf72b2aea01e6cd621642a">
-  <meta name="ui-target" content="canary-1">
+  <meta name="ui-target" content="full">
 
   <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
   <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
@@ -297,19 +297,19 @@
 
       <div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
           <a
-            href="/login?return_to=https%3A%2F%2Fgithub.com%2FMuges%2Fambientsounds%2Fraw%2Fmaster%2Fsounds%2Fwind.ogg"
+            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fbradtraversy%2Fambient-sound-mixer%2Fraw%2Fmaster%2Fsounds%2Fcoffee.mp3"
             class="HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Muges/ambientsounds/raw/master/sounds/wind.ogg&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ed10878feb3b07744a4e313f34fd45c45c03b84f12d5a55b3e29a12bf989de11"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bradtraversy/ambient-sound-mixer/raw/master/sounds/coffee.mp3&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e4373bd57b04cb600b972c5d35add39bdcc356928c2c7401f99302eb3804268"
             data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
           >
             Sign in
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-066c2303-2db5-44d7-af5c-37f1bc09c0b7" aria-labelledby="tooltip-22d29db8-8d02-48df-aaaa-373220d50cad" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-ac82e9ad-85f8-43ce-ba1a-d56e4ece5c1a" aria-labelledby="tooltip-a3fed6e4-0e9c-407c-9f5c-6adfd67d1369" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-22d29db8-8d02-48df-aaaa-373220d50cad" for="icon-button-066c2303-2db5-44d7-af5c-37f1bc09c0b7" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-a3fed6e4-0e9c-407c-9f5c-6adfd67d1369" for="icon-button-ac82e9ad-85f8-43ce-ba1a-d56e4ece5c1a" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.9190dd81e9e4278167a5.module.css" />
@@ -357,7 +357,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="owner:Muges" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="IZXZxrgxO7ulHBFWSgQotG4eWToTEZ1Lm__cOTeWYog2UyxATac-MH7badD38Pqyf1QKNDZs4oiS_a2W6eT0VQ" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="owner:bradtraversy" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="tZXJrQsfrbxO1kIWDvmuRYTzLazYQrLDnPx9nz14MpU39sD_xORqdbNYrH_HQJ06qmYcD-TBlpTYA6qawD4pMA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -421,7 +421,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-c3fbc83c-c790-4b6d-baf5-72e4ee3b1e41" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-c377d089-0265-4589-b693-e322964eb626" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -659,7 +659,7 @@
                   tabindex="-1"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-c3fbc83c-c790-4b6d-baf5-72e4ee3b1e41" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-c377d089-0265-4589-b693-e322964eb626" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -700,7 +700,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gkq_KKCI31Vt7m-kfQIfakcO0nA-JI6Kbd9eEalRHjFaMlNcvYKZiN8YHzrFtKP9Z7e8zQHNUN01Rz5mtYPEiw" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KxEjr8mhgs2-iBoTs0FvLrK-fvFkJVhDnBi45p0zkUaU8dgFAos8UDLYulazSkrVQZGcw76o7DPvYhhG4TcEFg" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -738,7 +738,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2HjzaqC-Gmq-QxerkHGC8sJvFOpS15Igns5JwFzf8AetHgNBMGkL9C93-68WUwqLT3xXVLDMptNysAg7sVt4lg" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ydMHUvVQQUS6aXJivv7Jzf860vq3USby0rI4872eIhO57s4etmk22wRKTjU5aXWpHfa2Ys0Gmagqdf78GqcoIg" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -756,7 +756,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="KLbhnslSX9OpYxGWbcSWKZHVZreuxcINszaplSb-uXcMRkBSbUXNRnKiMi4-GBrzZpWX945rvtS8rCZw-BFq9A" data-csrf="true" />
+              <input type="hidden" value="PSPw-TDA1Qv8FUCAgwLOKgjK-fa6ctzcKlfw1ixiab7G2bUucRpZcNQ_jHCC40T5evAxwdS5k9X99X6Zeav3iA" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -798,10 +798,10 @@
 
             <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
               <a
-                href="/login?return_to=https%3A%2F%2Fgithub.com%2FMuges%2Fambientsounds%2Fraw%2Fmaster%2Fsounds%2Fwind.ogg"
+                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fbradtraversy%2Fambient-sound-mixer%2Fraw%2Fmaster%2Fsounds%2Fcoffee.mp3"
                 class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1"
                 style="margin-left: 12px;"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Muges/ambientsounds/raw/master/sounds/wind.ogg&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ed10878feb3b07744a4e313f34fd45c45c03b84f12d5a55b3e29a12bf989de11"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bradtraversy/ambient-sound-mixer/raw/master/sounds/coffee.mp3&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e4373bd57b04cb600b972c5d35add39bdcc356928c2c7401f99302eb3804268"
                 data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
               >
                 Sign in
@@ -811,7 +811,7 @@
     <h4 data-view-component="true" class="color-fg-default mb-2">                    Sign in to GitHub
 </h4>
                         
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4KLB8ARXklZj51hou-S29AMIdzPM9mUpV-eDNWGvJ6wRqie0MLCVcbSO50a76bsorzU-utd-FdKQvQ-gbFuWRQ" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Uv3zsqe58k6Gcsg6f61xVv0PTBjeoUvhjUVQ1KxQFSXWFjqjBl_2hsrebQP1rYJIn3mDcOxq9pmw4JFzTkHV8w" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
 
     <label for="login_field">
       Username or email address
@@ -829,17 +829,17 @@
 <input type="hidden" class="js-support" name="javascript-support" value="unknown">
 <input type="hidden" class="js-webauthn-support" name="webauthn-support" value="unknown">
 <input type="hidden" class="js-webauthn-iuvpaa-support" name="webauthn-iuvpaa-support" value="unknown">
-<input type="hidden" name="return_to" id="return_to" value="https://github.com/Muges/ambientsounds/raw/master/sounds/wind.ogg" autocomplete="off" class="form-control" />
+<input type="hidden" name="return_to" id="return_to" value="https://github.com/bradtraversy/ambient-sound-mixer/raw/master/sounds/coffee.mp3" autocomplete="off" class="form-control" />
 <input type="hidden" name="allow_signup" id="allow_signup" autocomplete="off" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
 <input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
-<input type="text" name="required_field_0df3" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1767638367028" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="a186f39ca7c30fe326686b57e8e488a00aa03b02e3cebbeefc25464d8c8496ed" autocomplete="off" class="form-control" />
+<input type="text" name="required_field_2f0c" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1767638365744" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="fca63649481bc1f4fe637e5a5599a9bfd7808ebfa56a2cb28a61bfbb8a7bac36" autocomplete="off" class="form-control" />
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" development="false" disable-emu-sso="false" />
   </div>
 </form>  <webauthn-status class="js-webauthn-login-emu-control">
         <div data-target="webauthn-status.partial" class="d-flex flex-justify-between flex-column mt-3 mb-0" hidden>
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FMuges%2Fambientsounds%2Fraw%2Fmaster%2Fsounds%2Fwind.ogg" data-analytics-event="{&quot;category&quot;:&quot;passkey_404_login&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fbradtraversy%2Fambient-sound-mixer%2Fraw%2Fmaster%2Fsounds%2Fcoffee.mp3" data-analytics-event="{&quot;category&quot;:&quot;passkey_404_login&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
     <span class="Button-label">or continue with other methods</span>
   </span>
 </a>
@@ -849,20 +849,20 @@
 
 </div></div>            </div>
 
-              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2FMuges%2Fambientsounds%2Fraw%2Fmaster%2Fsounds%2Fwind.ogg&amp;source=header"
+              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fbradtraversy%2Fambient-sound-mixer%2Fraw%2Fmaster%2Fsounds%2Fcoffee.mp3&amp;source=header"
                 class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Muges/ambientsounds/raw/master/sounds/wind.ogg&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ed10878feb3b07744a4e313f34fd45c45c03b84f12d5a55b3e29a12bf989de11"
-                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/Muges/ambientsounds/raw/master/sounds/wind.ogg;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/bradtraversy/ambient-sound-mixer/raw/master/sounds/coffee.mp3&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e4373bd57b04cb600b972c5d35add39bdcc356928c2c7401f99302eb3804268"
+                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/bradtraversy/ambient-sound-mixer/raw/master/sounds/coffee.mp3;ref_cta:Sign up;ref_loc:header logged out&quot;}"
               >
                 Sign up
               </a>
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-daa8b8c6-7a73-4102-a321-0f876fa5e469" aria-labelledby="tooltip-ab5bca30-8d6d-463d-b870-ff8331f6792f" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-d4092c81-12f3-4d36-8659-642b67c495a3" aria-labelledby="tooltip-f2f384b9-837e-4003-82e0-2047f51db842" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-ab5bca30-8d6d-463d-b870-ff8331f6792f" for="icon-button-daa8b8c6-7a73-4102-a321-0f876fa5e469" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-f2f384b9-837e-4003-82e0-2047f51db842" for="icon-button-d4092c81-12f3-4d36-8659-642b67c495a3" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.9190dd81e9e4278167a5.module.css" />
@@ -900,10 +900,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-76a31d50-dfe4-4739-ac29-a8e76fb466b2" aria-labelledby="tooltip-27c9a548-a124-4fa5-803d-8b31f6d433d4" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-4556a872-bbf7-4865-822b-44a6f9f55dc8" aria-labelledby="tooltip-bf1ebdb8-17cd-49e8-9538-773f33e29dbc" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-27c9a548-a124-4fa5-803d-8b31f6d433d4" for="icon-button-76a31d50-dfe4-4739-ac29-a8e76fb466b2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-bf1ebdb8-17cd-49e8-9538-773f33e29dbc" for="icon-button-4556a872-bbf7-4865-822b-44a6f9f55dc8" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
